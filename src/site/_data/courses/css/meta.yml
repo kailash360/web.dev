@@ -14,6 +14,6 @@ logo: '/images/courses/css/logo.svg'
 # This is used to provide the background for the navigation drawer and header.
 background: '/images/courses/css/background.svg'
 # This provides the cover image for the card on /learn/
-card: '/images/courses/css/card.svg'
+card: '/images/courses/css/card-brand.svg'
 # This is used for the social media thumbnail.
 thumbnail: 'image/foR0vJZKULb5AGJExlazy1xYDgI2/N5mplhgLlq9qzABgyYKQ.png'
